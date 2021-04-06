@@ -14,6 +14,14 @@
 
 [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
+[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+
+[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+
+[路径总和](https://leetcode-cn.com/problems/path-sum/)
+
+[路径总和2](https://leetcode-cn.com/problems/path-sum-ii/)
+
 3. 利用二叉树、遍历的某种性质解决问题,如根据便利结果构造二叉树
 
 > note:前序遍历的结果中，第一个元素是根节点的值，后面依次是左子树和右子树，每一个子树都符合这种结构；对于中序和后续遍历，唯一的不同是根节点位于中间和最后
