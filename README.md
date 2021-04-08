@@ -22,6 +22,8 @@
 
 [路径总和2](https://leetcode-cn.com/problems/path-sum-ii/)
 
+[求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
+
 3. 利用二叉树、遍历的某种性质解决问题,如根据便利结果构造二叉树
 
 > note:前序遍历的结果中，第一个元素是根节点的值，后面依次是左子树和右子树，每一个子树都符合这种结构；对于中序和后续遍历，唯一的不同是根节点位于中间和最后
@@ -41,6 +43,10 @@
 [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 
 ## 二、BFS
+
+> note:其实就是二叉树的层序遍历，一般用队列实现
+
+[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 
 [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 
