@@ -44,9 +44,16 @@
 
 ## 二、BFS
 
-> note:其实就是二叉树的层序遍历，一般用队列实现
+1. 二叉树的层序遍历，一般用队列实现
 
 [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 
+[二叉树的层序遍历2](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+
 [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+
+[二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+2. 不是二叉树，但可以转换成二叉树的问题解决
+
 
