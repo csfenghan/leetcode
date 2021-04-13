@@ -57,3 +57,13 @@
 2. 不是二叉树，但可以转换成二叉树的问题解决
 
 
+## 三、二分搜索
+
+这里难点在于何时使用等号,迭代时是使用mid-1(或mid+1)还是mid
+
+1. 二分搜索的变种，一般可以通过多次二分搜索解决
+
+[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
+[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
