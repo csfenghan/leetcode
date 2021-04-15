@@ -59,17 +59,19 @@
 
 ## 三、二分搜索
 
-这里难点在于何时使用等号,迭代时是使用mid-1(或mid+1)还是mid
+难点1. 在于何时使用等号,迭代时是使用mid-1(或mid+1)还是mid
 
 1. 二分查找基本操作及其变种
 
 [x的平方根](https://leetcode-cn.com/problems/sqrtx/) 乘法可能会溢出，因此要使用除法（小心被除数等于0的情况）
 
+2. 旋转数组问题,通过多次二分搜索解决
+
 [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) 小心重复元素
 
-2. 通过多次二分搜索解决
-
 [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
+[搜索旋转排序数据2](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) 重点关注如何处理重复(unsolved)
 
 [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
