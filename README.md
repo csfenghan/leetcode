@@ -57,7 +57,7 @@
 2. 不是二叉树，但可以转换成二叉树的问题解决
 
 
-## 三、二分搜索
+## 三、二分搜索(比较考验细节)
 
 难点1. 在于何时使用等号,迭代时是使用mid-1(或mid+1)还是mid
 
@@ -75,3 +75,4 @@
 
 [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+## 四、双指针
