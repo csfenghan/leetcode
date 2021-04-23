@@ -75,7 +75,7 @@
 
 [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-## 四、滑动窗口与双指针
+## 四、滑动窗口
 两者在应用场景上有些相似，很多可以同时使用两种方法解决
 
 1. 经典滑动窗口题 
@@ -86,9 +86,17 @@
 
 [至多包含 K 个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 
-2. 经典双指针题
+## 五、双指针
+
+1. 经典双指针题(一般是从两边到中间检索，也有的是都从左侧开始检索)
 
 [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
 
+[三数之和](https://leetcode-cn.com/problems/3sum/)	注意去重复
+
+
+2. 快慢指针（快指针始终比满指针快n倍或n步等）
+
+[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 
 
