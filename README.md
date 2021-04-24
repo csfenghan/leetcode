@@ -88,15 +88,23 @@
 
 ## 五、双指针
 
-1. 经典双指针题(一般是从两边到中间检索，也有的是都从左侧开始检索)
+1. 从左右两侧向中间检索
 
 [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
 
-[三数之和](https://leetcode-cn.com/problems/3sum/)	注意去重复
+[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) 	上面两个很相似
 
+[三数之和](https://leetcode-cn.com/problems/3sum/)			注意去重复
 
 2. 快慢指针（快指针始终比满指针快n倍或n步等）
 
 [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+
+3. 都从左侧出发，但步伐不定
+
+[移动零](https://leetcode-cn.com/problems/move-zeroes/)
+
+[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+
 
 
