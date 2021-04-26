@@ -106,5 +106,23 @@
 
 [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
+## 六、贪心算法 
+
+
+
+## 七、动态规划
+
+1. 经典的两个维度的dp问题,把这些弄明白就行了
+
+[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)	
+
+[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) 
+
+2. 一个维度的dp问题
+
+[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
+
+
+
 
 
