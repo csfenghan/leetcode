@@ -113,16 +113,16 @@
 ## 七、动态规划
 
 1. 经典的两个维度的dp问题,把这些弄明白就行了
-
-[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)	
+> 注意滚动数组思想，可以大幅度优化空间复杂度
+> dp问题分为两种，一种是求最优解类，典型的是背包问题。另一种是技术类，比如求方案总数。他们的一个共同的是当前问题的最优解往往取决于子问题或前一个问题的最优解
 
 [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) 
 
-2. 一个维度的dp问题
-
 [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 
+[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)	
 
+[不同路径](https://leetcode-cn.com/problems/unique-paths/)
 
-
+[不同路径2](https://leetcode-cn.com/problems/unique-paths-ii/)
 
