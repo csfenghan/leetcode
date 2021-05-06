@@ -108,6 +108,11 @@
 
 ## 六、贪心算法 
 
+> 每次都最大或最多
+
+[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+
+[跳跃游戏2](https://leetcode-cn.com/problems/jump-game-ii/)
 
 
 ## 七、动态规划
