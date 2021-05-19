@@ -59,13 +59,14 @@
 
 ## 三、二分搜索(比较考验细节)
 
-难点1. 在于何时使用等号,迭代时是使用mid-1(或mid+1)还是mid
+> 1. 重点在于选择是[left,right]还是[left,right)，这两种解法细节差别很大；
+> 2. 选择mid=left+(right-left)/2还是mid=left+(right-left+1)/2选择也很重要
 
 1. 二分查找基本操作及其变种
 
 [x的平方根](https://leetcode-cn.com/problems/sqrtx/) 乘法可能会溢出，因此要使用除法（小心被除数等于0的情况）
 
-2. 旋转数组问题,通过多次二分搜索解决
+2. 通过多次二分搜索解决
 
 [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) 小心重复元素
 
