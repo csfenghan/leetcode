@@ -134,3 +134,8 @@
 
 [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 
+## 八、原地修改
+
+一般是给定一个长度为n的数组，数组内元素的范围往往在0-n之间
+
+[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
